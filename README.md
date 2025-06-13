@@ -32,9 +32,7 @@ This project presents a Power BI dashboard analyzing the daily performance of th
 
 ## 📤 Export
 
-Since "Publish to Web" is restricted for free Power BI accounts, the dashboard is shared as a downloadable PDF.
-
-📎 **[Download Dashboard PDF](./NiftyBankDashboard.pdf)**
+Since "Publish to Web" is restricted for free Power BI accounts, the dashboard is shared as a downloadable PDF
 
 ---
 
